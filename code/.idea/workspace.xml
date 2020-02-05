@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9fc0c399-5682-49e8-9e29-e0300c68b280" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_open.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_open.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +35,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\BGW\git\codeit\code" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\BGW\git\codeit\code" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BGW\git\codeit\code" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.file_open">
-    <configuration name="Find _the _sum _of_digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.words_quiz_upgrade_v2">
+    <configuration name="type_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find _the _sum _of_digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Find _the _sum _of_digits2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vocabulary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find _the _sum _of_digits2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vocabulary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Resident registration number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="words_quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resident registration number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/words_quiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_open" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="words_quiz_upgrade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_open.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/words_quiz_upgrade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="words_quiz_upgrade_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/words_quiz_upgrade_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file_open" />
-        <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.Resident registration number" />
-        <item itemvalue="Python.Find _the _sum _of_digits2" />
-        <item itemvalue="Python.Find _the _sum _of_digits" />
+        <item itemvalue="Python.words_quiz_upgrade_v2" />
+        <item itemvalue="Python.words_quiz_upgrade" />
+        <item itemvalue="Python.type_dictionary" />
+        <item itemvalue="Python.words_quiz" />
+        <item itemvalue="Python.vocabulary" />
       </list>
     </recent_temporary>
   </component>
@@ -175,26 +176,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="563" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1580655474664" />
+    <state x="810" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580906175701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="810" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580906175701" />
     <state x="825" y="171" key="FileChooserDialogImpl" timestamp="1580655631180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="825" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580655631180" />
-    <state width="890" height="208" key="GridCell.Tab.0.bottom" timestamp="1580898277854">
+    <state width="877" height="206" key="GridCell.Tab.0.bottom" timestamp="1580915762827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="890" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580898277854" />
-    <state width="890" height="208" key="GridCell.Tab.0.center" timestamp="1580898277854">
+    <state width="877" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580915762827" />
+    <state width="877" height="206" key="GridCell.Tab.0.center" timestamp="1580915762827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="890" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580898277854" />
-    <state width="890" height="208" key="GridCell.Tab.0.left" timestamp="1580898277854">
+    <state width="877" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580915762827" />
+    <state width="877" height="206" key="GridCell.Tab.0.left" timestamp="1580915762827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="890" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580898277854" />
-    <state width="890" height="208" key="GridCell.Tab.0.right" timestamp="1580898277854">
+    <state width="877" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580915762827" />
+    <state width="877" height="206" key="GridCell.Tab.0.right" timestamp="1580915762827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="890" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580898277854" />
+    <state width="877" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580915762827" />
     <state x="555" y="58" key="SettingsEditor" timestamp="1580655634661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
