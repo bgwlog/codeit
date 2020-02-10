@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9fc0c399-5682-49e8-9e29-e0300c68b280" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_open.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_open.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -42,7 +41,49 @@
       <recent name="C:\Users\BGW\git\codeit\code" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.words_quiz_upgrade_v2">
+  <component name="RunManager" selected="Python.lottery_driver">
+    <configuration name="lottery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lottery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lottery_driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lottery_driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="type_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,48 +97,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type_dictionary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="vocabulary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vocabulary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="words_quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/words_quiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lottery_driver" />
+        <item itemvalue="Python.lottery" />
         <item itemvalue="Python.words_quiz_upgrade_v2" />
         <item itemvalue="Python.words_quiz_upgrade" />
         <item itemvalue="Python.type_dictionary" />
-        <item itemvalue="Python.words_quiz" />
-        <item itemvalue="Python.vocabulary" />
       </list>
     </recent_temporary>
   </component>
@@ -176,33 +175,33 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="563" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1580655474664" />
-    <state x="810" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580906175701">
+    <state x="810" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581334568812">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="810" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580906175701" />
+    <state x="810" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581334568812" />
     <state x="825" y="171" key="FileChooserDialogImpl" timestamp="1580655631180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="825" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580655631180" />
-    <state width="877" height="206" key="GridCell.Tab.0.bottom" timestamp="1580915762827">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1581334731657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="877" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580915762827" />
-    <state width="877" height="206" key="GridCell.Tab.0.center" timestamp="1580915762827">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581334731657" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1581334731656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="877" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580915762827" />
-    <state width="877" height="206" key="GridCell.Tab.0.left" timestamp="1580915762827">
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581334731656" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1581334731656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="877" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580915762827" />
-    <state width="877" height="206" key="GridCell.Tab.0.right" timestamp="1580915762827">
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581334731656" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1581334731656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="877" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580915762827" />
-    <state x="555" y="58" key="SettingsEditor" timestamp="1580655634661">
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581334731656" />
+    <state x="555" y="58" key="SettingsEditor" timestamp="1581332106537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580655634661" />
+    <state x="555" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581332106537" />
   </component>
 </project>
