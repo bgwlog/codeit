@@ -8,9 +8,12 @@ class GameCharacter:
 
     def is_alive(self):
         # 게임 캐릭터가 살아있는지(체력이 0이 넘는지) 확인하는 메소드
-        torf = True if (self.hp > 0) else False
+        # torf = True if (self.hp > 0) else False
+        #
+        # return torf
+        # 아래처럼만 써도 됨.
 
-        return torf
+        return self.hp > 0
 
     def get_attacked(self, damage):
         """
@@ -21,16 +24,25 @@ class GameCharacter:
         """
         if not self.is_alive():
             print("Already dead.")
-        elif self.hp <= damage:
-            self.hp = 0
         else:
-            self.hp -= damage
+            self.hp = self.hp - damage if self.hp >= damage else 0
+        # elif self.hp <= damage:
+        #     self.hp = 0
+        # else:
+        #     self.hp -= damage
 
     def attack(self, other_character):
         # 게임 캐릭터가 살아있으면 파라미터로 받은 다른 캐릭터의 체력을 자신의 공격력만큼 깎는다.
+        if self.is_alive():
+            other_character.get_attacked(self.power)
 
     def __str__(self):
         # 게임 캐릭터의 의미있는 정보를 포함한 문자열을 리턴한다.
+        if not self.is_alive():
+            return "{}은 이미 죽었습니다.\n{}님의 hp는 {}만큼 남았습니다.".format(self.name, self.name, self.hp)
+        else:
+            return "{}님의 hp는 {}만큼 남았습니다.".format(self.name, self.hp)
+
 
 # 게임 캐릭터 인스턴스 생성
 character_1 = GameCharacter("Ww영훈전사wW", 200, 30)
